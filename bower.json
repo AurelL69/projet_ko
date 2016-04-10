@@ -1,0 +1,28 @@
+{
+  "name": "knokoutjs",
+  "description": "knockoutjs",
+  "main": "app.js",
+  "authors": [
+    "AurelL69 <aurelien.landelle@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "knockoutjs"
+  ],
+  "homepage": "https://github.com/AurelL69/projet_ko",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.2",
+    "knockout": "^3.4.0",
+    "bootswatch-dist": "3.3.6-lumen"
+  }
+}

@@ -1,0 +1,18 @@
+{
+ 	"alessandro": 
+ 	{
+	    "username": "valgrind",
+	    "password": "valgrind",
+	    "database": "intro_nodejs_angularjs",
+	    "host": "127.0.0.1",
+	    "dialect": "postgres"
+	},
+	"aurelien": 
+ 	{
+	    "username": "aurelien",
+	    "password": "aurelien",
+	    "database": "intro_nodejs_angularjs",
+	    "host": "127.0.0.1",
+	    "dialect": "mysql"
+	}
+}
